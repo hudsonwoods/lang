@@ -1,0 +1,39 @@
+title: Title
+include: meta                  # include the meta fields
+hide: true
+
+
+fields:
+
+  meta_section:
+    type: section
+    display: Important information for ordering your team members!
+    instructions: Change the ordering of entries by changing the Slug's name with a preceding number such as '1-john-smith'. Members are ordered from left to right - 1 being the first in the list.
+
+  JobDescription:
+    display: Job Description
+    instructions: "Enter the team member's job here, such as 'Designer'."
+    type: text
+
+  Email:
+    display: Email Address
+    instructions: "Enter the team member's e-mail address here."
+    type: text
+
+  LinkedIn:
+    display: LinkedIn Address (FULL ADDRESS)
+    instructions: "Enter the team member's LinkedIn address here."
+    type: text
+
+  Twitter:
+    display: Twitter  Address (FULL ADDRESS)
+    instructions: "Enter the team member's Twitter handle address, not just the handle"
+    type: text
+
+  content:
+    display: Main Content
+    type: markitup
+    image_dir: /assets/img/project_photos  #make sure the folder exists and is writable
+    instructions:
+      below: "Add the main content here."
+

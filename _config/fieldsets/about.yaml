@@ -1,0 +1,24 @@
+title: about
+include: meta                  # include the meta fields
+hide: true
+
+fields:
+  title: About Lang Architecture
+    instructions: "Enter the main title here."
+
+  content: 
+    display: Page Content 
+    required: false 
+    default: 
+    type: redactor 
+    image_dir: /
+
+  main_img:
+    display: Main Image
+    type: file
+    destination: /lang/assets/img/project_photos  #make sure the folder exists and is writable
+    instructions:
+      below: "Add the main image here, this will also display as a thumbnail on the projects page."
+
+
+

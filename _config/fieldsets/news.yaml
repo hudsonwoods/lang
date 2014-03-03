@@ -1,0 +1,30 @@
+title: news
+include: meta                  # include the meta fields
+hide: true
+
+fields:
+  title: Blog Posts
+
+  categories:
+    display: Categories
+    type: suggest
+    create: true
+    multiple: true
+    instructions:
+      below: "Create or select an existing category."
+    taxonomy:
+      folder: news #make sure you rename this to the folder name of your blog
+      type: categories
+
+  content: 
+    display: Page Content 
+    required: false 
+    default: 
+    type: redactor 
+    image_dir: /lang/assets/img/news-photos
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+title: landing
+
+fields:
+  LandingImage:
+    type: file
+    display: Landing Image
+    destination: lang_architecture/assets/img/landing_images
+    show_thumbnail: true
+  content:
+    display: Page Content
+    required: false
+    default:
+    type: markitup
+

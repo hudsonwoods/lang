@@ -1,0 +1,16 @@
+include: meta                  # include the meta fields
+hide: true
+
+fields:
+  title: Blog Content
+    instructions: "Create your content here"
+
+  content: 
+    display: Page Content 
+    required: false 
+    default: 
+    type: redactor 
+    image_dir: /lang/assets/blog/img/ 
+
+
+

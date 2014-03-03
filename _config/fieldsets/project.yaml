@@ -1,0 +1,122 @@
+title: gallery
+include: meta                  # include the meta fields
+hide: true
+type: date
+
+fields:
+  title:
+    instructions: "Enter the main title here."
+
+  main_section:
+    type: section
+    display: Main Content
+    instructions: "Enter your main content here."
+
+  categories:
+    display: Categories
+    type: suggest
+    default: all
+    create: true
+    max_items: 3
+    multiple: true
+    instructions:
+      below: "Create or select an existing category (maximum 3)."
+    taxonomy:
+      folder: news #make sure you rename this to the folder name of your blog
+      type: categories
+
+  main_img:
+    display: Main Image
+    type: file
+    destination: /lang/assets/img/project_photos  #make sure the folder exists and is writable
+    instructions:
+      below: "Add the main image here, this will also display as a thumbnail on the projects page."
+
+  summary:
+    display: Summary
+    required: true
+    type: textarea
+    instructions:
+      below: "Add a short summary here."
+
+  Location:
+    display: Location
+    required: false
+    type: text
+    instructions:
+      below: "Add a location description such as 'Jackson, Mississippi'"
+
+  ProjectType:
+    display: Project Type
+    required: false
+    type: text
+    instructions:
+      below: "Add a project description such as 'Urban Design'"
+
+  CompletionDate:
+    display: Completion Date
+    required: false
+    type: text
+    instructions:
+      below: "Add a project completion date such as 'Spring, 2005'"
+
+  ProjectCost:
+    display: Project Cost
+    required: false
+    type: text
+    instructions:
+      below: "Add a project cost here such as '3.25 Million'"
+
+  content:
+    display: Main Content
+    type: markitup
+    image_dir: /lang/assets/img/project_photos  #make sure the folder exists and is writable
+    instructions:
+      above: "Add the main content here."
+
+  built_or_process:
+    display: Choose whether you have Built photos, Process photos, or Both.
+    type: select
+    default: Built Only
+    required: true
+    width: 20%;
+    options:
+      built: Built Only
+      process: Process Only
+      both:  Both
+
+  builtGallery:
+    display: Built Photos
+    type: grid
+    starting_rows: 8
+    min_rows: 8
+    fields:
+      builtPhoto:
+        type: file
+        display: Photo
+        destination: /lang/assets/img/project_photos
+        show_thumbnail: true
+      caption:
+        display: Caption
+        type: text
+        width: 50%
+        default:""
+
+
+  processGallery:
+    display: Process Photos
+    type: grid
+    starting_rows: 8
+    min_rows: 8
+    fields:
+      processPhoto:
+        type: file
+        display: Photo
+        destination: /lang/assets/img/project_photos
+        show_thumbnail: true
+      caption:
+        display: Caption
+        type: text
+        width: 50%
+
+
