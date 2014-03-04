@@ -59,18 +59,9 @@ fields:
     type: text
 
 
-  where:
-    display: Spot
-    type: location
-
-  comment:
-    type: textarea
-    display: Comment
-    instructions:
-      below: A little about the camp spot.
-
-  content:
-    display: Page Content
-    required: false
-    default:
-    type: hidden
+  content: 
+    display: Page Content 
+    required: false 
+    default: 
+    type: redactor 
+    image_dir: assets/img/ 

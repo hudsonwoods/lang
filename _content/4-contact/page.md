@@ -23,6 +23,6 @@ where:
   latitude: "40.712"
   longitude: "-74.00858"
 ---
-
-
-
+<p style="text-align: center;">
+	 <img src="/lang/assets/img/LA-Map.png" alt="" style="float: none; margin: 0px;">
+</p>

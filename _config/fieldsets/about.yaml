@@ -11,7 +11,7 @@ fields:
     required: false 
     default: 
     type: redactor 
-    image_dir: /
+    image_dir: /lang/assets/img/project_photos/
 
   main_img:
     display: Main Image
