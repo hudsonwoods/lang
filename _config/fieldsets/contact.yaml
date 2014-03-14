@@ -5,13 +5,6 @@ fields:
   title:
     instructions: "Enter the main title here."
 
-  main_img:
-    display: Main Image
-    type: file
-    destination: /assets/img/project_photos  #make sure the folder exists and is writable
-    instructions:
-      below: "Add the main image here, this will also display as a thumbnail on the projects page."
-
   AddressLine1:
     display: Address Line One
     required: false
@@ -30,6 +23,11 @@ fields:
 
   PhoneNumber:
     display: Phone Number
+    required: false
+    type: text
+
+  FaxNumber:
+    display: Fax Number
     required: false
     type: text
 

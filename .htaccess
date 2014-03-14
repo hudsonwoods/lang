@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # If you're running in a subfolder (like http://example.com/statamic),
-# add that here. E.g. /lang/
+# add that here. E.g. /statamic/
 RewriteBase /
 
 # Protect your system files from prying eyes

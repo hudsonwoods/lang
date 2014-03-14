@@ -17,23 +17,22 @@ fields:
     type: suggest
     default: all
     create: true
-    max_items: 3
     multiple: true
     instructions:
-      below: "Create or select an existing category (maximum 3)."
+      below: "Create or select an existing category."
     taxonomy:
       folder: news #make sure you rename this to the folder name of your blog
       type: categories
 
   main_img:
-    display: Main Image
+    display: Project Thumbnail Image
     type: file
     destination: /lang/assets/img/project_photos  #make sure the folder exists and is writable
     instructions:
       below: "Add the main image here, this will also display as a thumbnail on the projects page."
 
   summary:
-    display: Summary
+    display: Summary (One short sentence max)
     required: true
     type: textarea
     instructions:
@@ -69,8 +68,9 @@ fields:
 
   content:
     display: Main Content
-    type: markitup
+    type: redactor
     image_dir: /lang/assets/img/project_photos  #make sure the folder exists and is writable
+    file_dir: /lang/assets/img/project_photos
     instructions:
       above: "Add the main content here."
 
@@ -96,11 +96,6 @@ fields:
         display: Photo
         destination: /lang/assets/img/project_photos
         show_thumbnail: true
-      caption:
-        display: Caption
-        type: text
-        width: 50%
-        default:""
 
 
   processGallery:
@@ -114,9 +109,5 @@ fields:
         display: Photo
         destination: /lang/assets/img/project_photos
         show_thumbnail: true
-      caption:
-        display: Caption
-        type: text
-        width: 50%
 
 

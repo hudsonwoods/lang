@@ -33,7 +33,7 @@ _site_url: http://lang.philippe.io
 _theme: styles
 
 # Entries should include timestamp YYYY-MM-DD-HHII
-_entry_timestamps: false
+_entry_timestamps: true
 
 # Global formatting for {{ date }} variables
 _date_format: 'F jS, Y'

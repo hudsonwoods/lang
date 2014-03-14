@@ -13,12 +13,6 @@ fields:
     type: redactor 
     image_dir: /lang/assets/img/project_photos/
 
-  main_img:
-    display: Main Image
-    type: file
-    destination: /lang/assets/img/project_photos  #make sure the folder exists and is writable
-    instructions:
-      below: "Add the main image here, this will also display as a thumbnail on the projects page."
 
 
 

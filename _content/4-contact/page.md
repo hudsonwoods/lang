@@ -1,10 +1,7 @@
 ---
 title: Contact
-_layout: contact
 _template: contact
-_default_folder_template: map
 _fieldset: contact
-_include_maps: true
 Address: |
   **Lang Architecture**
   225 Broadway, Suite 3001 
@@ -18,11 +15,10 @@ LinkedIn: '#'
 Twitter: '#'
 Facebook: '#'
 Pinterest: '#'
-where:
-  name: Lang Architecture
-  latitude: "40.712"
-  longitude: "-74.00858"
+FaxNumber: 212 658 9023
 ---
 <p style="text-align: center;">
-	 <img src="/lang/assets/img/LA-Map.png" alt="" style="float: none; margin: 0px;">
+	 <img src="/assets/img/LA-Map.png">
+</p>
+<p style="text-align: center;">
 </p>

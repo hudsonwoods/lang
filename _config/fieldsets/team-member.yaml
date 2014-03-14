@@ -32,7 +32,7 @@ fields:
 
   content:
     display: Main Content
-    type: markitup
+    type: redactor
     image_dir: /assets/img/project_photos  #make sure the folder exists and is writable
     instructions:
       below: "Add the main content here."

@@ -6,32 +6,33 @@ categories:
 main_img: /lang/assets/img/project_photos/Linden-thumbnail.jpg
 CompletionDate: Fall 2008
 ProjectCost: $4M
-built_or_process: built
-builtGallery:
+built_or_process: process
+Location: Brooklyn, New York
+processGallery:
   - 
     caption: ""
-    builtPhoto: /lang/assets/img/project_photos/MODEL-Left-Section-Straighton.jpg
+    processPhoto: /lang/assets/img/project_photos/MODEL-SPLIT1.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/MODEL-SPLIT2.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/MODEL-Left-Section-Int.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/MODEL-Left-Section-Straighton.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/1A-Lindern-Render-300dpi.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/MODEL-Right-Section.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/SECTION1.jpg
   - 
     caption: ""
-    builtPhoto: ""
+    processPhoto: /lang/assets/img/project_photos/SECTION2.jpg
 ---
 The Linden Hotel is a 16,000 square foot building with 38 guest rooms, designed in a manner that maximizes allowable built area on a small site.  The design is further informed by a client seeking to create a unique and memorable sensory experience for guests.
 

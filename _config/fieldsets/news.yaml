@@ -22,6 +22,8 @@ fields:
     default: 
     type: redactor 
     image_dir: /lang/assets/img/news-photos
+    file_dir: /lang/assets/img/news-photos
+
 
 
 

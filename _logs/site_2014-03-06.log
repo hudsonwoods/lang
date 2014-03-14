@@ -1,0 +1,5 @@
+ERROR|Thu, 06 Mar 2014 10:56:10 -0500|page|content|/robots.txt|62.24.181.134||404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Thu, 06 Mar 2014 10:56:10 -0500|page|content|/robots.txt|62.24.181.134||404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Thu, 06 Mar 2014 11:11:52 -0500|visitor|content|/robots.txt|66.249.74.5||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 06 Mar 2014 14:58:10 -0500|site|favicon|/favicon.ico|71.202.121.102||The site favicon could not be found.
+INFO|Thu, 06 Mar 2014 21:20:46 -0500|site|favicon|/favicon.ico|66.249.79.241||The site favicon could not be found.

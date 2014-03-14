@@ -1,0 +1,62 @@
+FATAL|Wed, 12 Mar 2014 00:33:30 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:33:42 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:38:44 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:38:50 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:38:52 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:39:03 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+INFO|Wed, 12 Mar 2014 00:39:04 -0400|site|favicon|/favicon.ico|71.202.121.102||The site favicon could not be found.
+FATAL|Wed, 12 Mar 2014 00:39:29 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:39:33 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:39:35 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+INFO|Wed, 12 Mar 2014 00:39:35 -0400|site|favicon|/favicon.ico|71.202.121.102||The site favicon could not be found.
+FATAL|Wed, 12 Mar 2014 00:41:14 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+FATAL|Wed, 12 Mar 2014 00:41:15 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+INFO|Wed, 12 Mar 2014 00:41:15 -0400|site|favicon|/favicon.ico|71.202.121.102||The site favicon could not be found.
+FATAL|Wed, 12 Mar 2014 00:41:47 -0400|core|template|/about|71.202.121.102||Can't find the specified theme.
+ERROR|Wed, 12 Mar 2014 12:11:53 -0400|visitor|content|/robots.txt|66.249.68.241||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 12 Mar 2014 19:03:14 -0400|page|content|/projects/16-vault-partners|71.202.121.102||404 - Page not found. There is a bad link on <a href="/projects">/projects</a>.
+ERROR|Wed, 12 Mar 2014 19:04:54 -0400|page|content|/projects/1-hudson-woods|71.202.121.102||404 - Page not found. There is a bad link on <a href="/projects">/projects</a>.
+INFO|Wed, 12 Mar 2014 19:15:10 -0400|site|favicon|/favicon.ico|108.29.14.133||The site favicon could not be found.
+INFO|Wed, 12 Mar 2014 19:15:10 -0400|site|favicon|/favicon.ico|108.29.14.133||The site favicon could not be found.
+INFO|Wed, 12 Mar 2014 19:24:19 -0400|site|favicon|/favicon.ico|108.29.14.133||The site favicon could not be found.
+INFO|Wed, 12 Mar 2014 19:24:19 -0400|site|favicon|/favicon.ico|108.29.14.133||The site favicon could not be found.
+ERROR|Wed, 12 Mar 2014 20:15:28 -0400|page|content|/assets//img/landing_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:28 -0400|page|content|/assets//img/landing_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:28 -0400|page|content|/assets//img/landing_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:29 -0400|page|content|/assets/img/landing_images/Image-3-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:29 -0400|page|content|/assets/img/landing_images/Image-2-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:29 -0400|page|content|/assets/img/landing_images/Image-1-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:30 -0400|page|content|/assets//img/landing_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:30 -0400|page|content|/assets/img/landing_images/Image-3-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:30 -0400|page|content|/assets/img/landing_images/Image-2-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:30 -0400|page|content|/assets//img/landing_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:30 -0400|page|content|/assets/img/landing_images/Image-1-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:31 -0400|page|content|/assets//img/landing_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets//img/landing_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets/img/landing_images/Image-2-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets/img/landing_images/Image-1-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets/img/landing_images/Image-3-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets//img/landing_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:32 -0400|page|content|/assets//img/landing_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets/img/landing_images/Image-1-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets//img/landing_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets/img/landing_images/Image-2-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets//img/landing_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets/img/landing_images/Image-3-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:15:53 -0400|page|content|/assets//img/landing_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:16:23 -0400|visitor|content|/assets/img/landing_images/Image-1-mobile.jpg|71.202.121.102||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 12 Mar 2014 20:22:37 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:22:37 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:22:37 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:23:47 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:23:47 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:23:47 -0400|page|content|/_themes/styles/assets//img/landin-_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:05 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:05 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:05 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:09 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:09 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:09 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:11 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-5-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:11 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-4-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 12 Mar 2014 20:25:11 -0400|page|content|/_themes/styles/assets//img/landing-_images/Image-6-mobile.jpg|71.202.121.102||404 - Page not found. There is a bad link on <a href="/">/</a>.
